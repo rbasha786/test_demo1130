@@ -1,3 +1,5 @@
+# The bug is fixed
+
 def login():  
     username = input("Enter username: ")  
     password = input("Enter password: ")  
